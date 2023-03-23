@@ -8,3 +8,8 @@
 	url = https://github.com/benwiseman/roperators
 	shallow = true
 	registered = true
+[submodule "sentiment.ai"]
+	path = sentiment.ai
+	url = https://github.com/cran/sentiment.ai
+	shallow = true
+	registered = true
